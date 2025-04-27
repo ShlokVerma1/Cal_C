@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator in Python.
+# 🧮 Scientific Calculator in Python
 
 This is a **command-line based scientific calculator** built using Python. It offers basic arithmetic operations as well as advanced mathematical functions like trigonometry, logarithms, BMI, exponentials, and temperature conversions.
 
